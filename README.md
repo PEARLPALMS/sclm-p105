@@ -11,7 +11,7 @@ SCLM-P105 は、RGB バックライトを搭載した 8 色カラー、10 桁＋
 <br>
 
 詳しくは、解説されている方がいらっしゃいます。<br>
-> [https://github.com/mintia666/SCLM-P105] (https://github.com/mintia666/SCLM-P105)<br>
+> [mintia666/SCLM-P105] (https://github.com/mintia666/SCLM-P105)<br>
 <br>
 
 私の実装も独自であり、データシートと動作確認のみで作られております。<br>
