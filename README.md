@@ -18,3 +18,11 @@ SCLM-P105 は、RGB バックライトを搭載した 8 色カラー、10 桁＋
 アドバンテージもありませんが、サンプルを豊富に用意しました。<br>
 <br>
 
+<img src="./image/IMG_0058.png" width="100%">
+<img src="./image/IMG_0059.png" width="100%">
+<img src="./image/IMG_0060.png" width="100%">
+<img src="./image/IMG_0098.png" width="100%">
+<img src="./image/IMG_0099.png" width="100%">
+<img src="./image/IMG_0311.png" width="100%">
+<br>
+
