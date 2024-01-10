@@ -18,11 +18,18 @@ SCLM-P105 は、RGB バックライトを搭載した 8 色カラー、10 桁＋
 アドバンテージもありませんが、サンプルを豊富に用意しました。<br>
 <br>
 
-<img src="./image/IMG_0058.png" width="100%">
-<img src="./image/IMG_0059.png" width="100%">
-<img src="./image/IMG_0060.png" width="100%">
-<img src="./image/IMG_0098.png" width="100%">
-<img src="./image/IMG_0099.png" width="100%">
-<img src="./image/IMG_0311.png" width="100%">
+店頭デモ機
+<img src="./image/IMG_0058.png" width="50%">
+<img src="./image/IMG_0059.png" width="50%">
+<br>
+
+売り場はジャンクそのモノ
+<img src="./image/IMG_0060.png" width="50%">
+<img src="./image/IMG_0311.png" width="50%">
+<br>
+
+基盤にはマイコンも実装されている
+<img src="./image/IMG_0098.png" width="50%">
+<img src="./image/IMG_0099.png" width="50%">
 <br>
 
