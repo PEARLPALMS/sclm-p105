@@ -1,0 +1,47 @@
+#######################################
+# Syntax Coloring Map For 
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+data	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+SCLM_P105	KEYWORD2
+begin	KEYWORD2
+setFillZero	KEYWORD2
+printUp	KEYWORD2
+printUp	KEYWORD2
+printUp	KEYWORD2
+printUp	KEYWORD2
+printDown	KEYWORD2
+printDown	KEYWORD2
+printDown	KEYWORD2
+printDown	KEYWORD2
+mark0	KEYWORD2
+mark1	KEYWORD2
+mark2	KEYWORD2
+mark3	KEYWORD2
+mark4	KEYWORD2
+mark5	KEYWORD2
+mark6	KEYWORD2
+mark7	KEYWORD2
+mark8	KEYWORD2
+mark9	KEYWORD2
+mark10	KEYWORD2
+mark11	KEYWORD2
+markColon	KEYWORD2
+markUpDot	KEYWORD2
+markDownDot	KEYWORD2
+update	KEYWORD2
+clear	KEYWORD2
+inputMark	KEYWORD2
+transferData	KEYWORD2
+waitBusy	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
