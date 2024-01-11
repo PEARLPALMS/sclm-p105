@@ -2,7 +2,7 @@
 
 > Arduino IDE 用 ライブラリ<br>
 
-<a href="https://github.com/PEARLPALMS/sclm_p105/sclm_p105.7z">ダウンロード</a><br>
+<a href="sclm_p105.7z">ダウンロード</a><br>
 <br>
 
 > GitHubページ<br>
