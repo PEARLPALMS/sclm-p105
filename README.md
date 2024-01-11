@@ -1,5 +1,8 @@
 # sclm_p105 (SCLM-P105)
 
+<a href="https://github.com/PEARLPALMS/sclm_p105/">GitHubページ</a><br>
+<br>
+
 Googleの生成AIによると。。。<br>
 SCLM-P105 は、RGB バックライトを搭載した 8 色カラー、10 桁＋固定マーク表示の 7 セグメント液晶モジュールです。<br>
 デジットで 20 円で販売されており、Arduino 用のライブラリーが提供されています。﻿<br>
