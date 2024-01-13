@@ -1,4 +1,4 @@
-# sclm_p105 (SCLM-P105)
+# SCLM-P105
 
 > Arduino IDE 用 ライブラリ<br>
 
